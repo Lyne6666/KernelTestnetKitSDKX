@@ -1,2 +1,1 @@
-# KernelTestnetKitSDKX
-Advanced KernelTestnetKitSDKX project
+.
